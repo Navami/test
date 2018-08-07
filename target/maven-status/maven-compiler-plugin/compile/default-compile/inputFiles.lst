@@ -1,0 +1,14 @@
+/Users/navami/tradeReport/src/main/java/business_logic/ranking/Rank.java
+/Users/navami/tradeReport/src/main/java/business_logic/reports/ReportGenerator.java
+/Users/navami/tradeReport/src/main/java/model/instruction/TradeAction.java
+/Users/navami/tradeReport/src/main/java/business_logic/reports/IReportGenerator.java
+/Users/navami/tradeReport/src/main/java/model/instruction/Instruction.java
+/Users/navami/tradeReport/src/main/java/utils/FakeInstructionsGenerator.java
+/Users/navami/tradeReport/src/main/java/business_logic/working_days/ArabiaWorkingDays.java
+/Users/navami/tradeReport/src/main/java/Main.java
+/Users/navami/tradeReport/src/main/java/business_logic/InstructionSettlementDateCalculator.java
+/Users/navami/tradeReport/src/main/java/business_logic/InstructionSettlementStatsCalculator.java
+/Users/navami/tradeReport/src/main/java/business_logic/working_days/DefaultWorkingDays.java
+/Users/navami/tradeReport/src/main/java/business_logic/working_days/WorkingDays.java
+/Users/navami/tradeReport/src/main/java/model/instruction/InstructionDetails.java
+/Users/navami/tradeReport/src/main/java/business_logic/working_days/IWorkingDays.java

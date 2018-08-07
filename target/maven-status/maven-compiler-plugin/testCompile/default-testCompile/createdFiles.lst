@@ -1,0 +1,4 @@
+business_logic/InstructionSettlementStatsCalculatorTest.class
+business_logic/InstructionSettlementDateCalculatorTest.class
+business_logic/working_days/DefaultWorkingDaysTest.class
+business_logic/working_days/ArabiaWorkingDaysTest.class
